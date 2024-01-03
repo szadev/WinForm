@@ -1,2 +1,2 @@
 # WinForm
-Additional to winform classes.
+Additions to winform
