@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 public class TextBoxHint : TextBox
 {
-    string hint;
+    private string hint;
     public string Hint
     {
         get { return hint; }
